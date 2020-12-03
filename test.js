@@ -1,4 +1,4 @@
-const assert = require('assert');
+просто что то добавила  const assert = require('assert');
 const warmup = require('./src/index.js');
 
 describe('warmup', () => {
